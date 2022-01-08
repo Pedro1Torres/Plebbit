@@ -1,0 +1,20 @@
+.ui_header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.field_t{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.field_l{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ui_large_form_segment{
+  margin-top: 5em;
+}
